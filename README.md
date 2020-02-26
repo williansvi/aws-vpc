@@ -1,2 +1,2 @@
 # aws-vpc
-Module for VPC creation in AWS
+Terraform module for VPC creation in AWS
